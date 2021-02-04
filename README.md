@@ -1,2 +1,2 @@
 # gitProject
-This is my firs GitHub Repository
+This is my first GitHub Repository
